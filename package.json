@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "tugas2-javascript",
+  "version": "1.0.0",
+  "main": "soal1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reza",
+  "license": "ISC",
+  "description": ""
+}
